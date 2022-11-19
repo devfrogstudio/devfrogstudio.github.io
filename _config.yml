@@ -20,7 +20,7 @@ title: "DevFrogStudio"
 title_separator: "|"
 subtitle: "keep going"
 name: "DevFrog"
-description: "devfrog's personal blog"
+description: "DevFrog's personal blog"
 url: #"https://devfrogstudio.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,15 +105,15 @@ analytics:
 author:
   name: "DevFrog"
   avatar: "/assets/images/tobi_crab.png"
-  bio: "devfrog's personal blog"
+  bio: "DevFrog's personal blog/contact: devfrogstudio@gmail.com"
   #location: "South Korea"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:devfrogstudio@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/devfrogstudio"
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:devfrogstudio@gmail.com"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/devfrogstudio"
 
 # Site Footer
 footer:
