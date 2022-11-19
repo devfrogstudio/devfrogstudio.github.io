@@ -1,12 +1,9 @@
 ---
-layout: single
 title: "Player Prefs 정리"
-unity-coding: PlayerPrefs
-tag: unity
+categories:
+  - Unity Features
+tag: [unity, playerprefs]
 toc: true
-author_profile: false
-sidebar:
-  nav: "docs"
 ---
 
 # PlayerPrefs 정리

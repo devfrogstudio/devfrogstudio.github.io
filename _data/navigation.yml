@@ -7,23 +7,6 @@ main:
   - title: "Search"
     url: /search/
 
-docs:
-  - title: "Unity"
-    children:
-      - title: "코딩"
-        url: /unity-coding/
-      - title: "셰이더"
-        url: /unity-shader/
-      - title: "최적화"
-        url: /unity-optimization/
-      - title: "GPGS"
-        url: /unity-gpgs/
-
-  - title: "Git"
-    children:
-      - title: "Git 시작하기"
-        url: /git-start/
-
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
