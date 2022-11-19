@@ -2,8 +2,10 @@
 title: "Player Prefs 정리"
 categories:
   - Unity Features
-tag: [unity, playerprefs]
+tag:
+  - [unity, playerprefs]
 toc: true
+toc_sticky: true
 ---
 
 # PlayerPrefs 정리
