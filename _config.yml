@@ -108,12 +108,12 @@ author:
   bio: "DevFrog's personal blog"
   #location: "South Korea"
   links:
-#    - label: "Email"
-#      icon: "fas fa-fw fa-envelope-square"
-#      url: "mailto:devfrogstudio@gmail.com"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/devfrogstudio"
+    #    - label: "Email"
+    #      icon: "fas fa-fw fa-envelope-square"
+    #      url: "mailto:devfrogstudio@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/devfrogstudio"
 
 # Site Footer
 footer:
@@ -221,16 +221,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+ jekyll-archives:
+   enabled:
+     - categories
+     - tags
+   layouts:
+     category: archive-taxonomy
+     tag: archive-taxonomy
+   permalinks:
+     category: /categories/:name/
+     tag: /tags/:name/
 
 # HTML Compression
 # - https://jch.penibelst.de/
