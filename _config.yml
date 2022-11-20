@@ -18,7 +18,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 locale: "ko-KR"
 title: "DevFrogStudio"
 title_separator: "|"
-subtitle: "keep going"
+subtitle: "keep going!"
 name: "DevFrog"
 description: "DevFrog's personal blog"
 url: #"https://devfrogstudio.github.io"
