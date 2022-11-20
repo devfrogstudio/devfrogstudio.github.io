@@ -1,5 +1,5 @@
 ---
-title: "유니티 셰이더"
+title: "Unity Shader"
 layout: archive
 permalink: categories/unity-shader
 author_profile: true
