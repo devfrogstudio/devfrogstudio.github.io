@@ -1,5 +1,5 @@
 ---
-title: "유니티 코딩"
+title: "Unity Coding"
 layout: archive
 permalink: categories/unity-coding
 author_profile: true
