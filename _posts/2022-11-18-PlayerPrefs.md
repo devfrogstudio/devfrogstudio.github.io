@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 ---
 
-# PlayerPrefs로 저장하기
+## PlayerPrefs로 저장하기
 
 PlayerPrefs는 별도의 암호화 없이 로컬 레지스트리에 저장됩니다.
 유저의 암호 같이 중요한 데이터는 PlayerPrefs를 사용하지 마세요.
