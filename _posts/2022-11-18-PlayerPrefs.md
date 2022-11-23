@@ -55,6 +55,8 @@ public void DeleteData()
 ### 내 생각
 
 - 암호화도 없이 로컬에 저장된다는 점이 쓰기 어렵게 만든다.
+- 데이터 타입의 제한도 큰 감점 요소다.
+- 그냥 Json파일로 저장하는게 어떨까?
 - Option이나 Menu와 관련된 데이터를 저장하는 용도로 보인다.
 - 빠르게 프로토타이핑 할 때는 사용해도 괜찮겠다.
 
@@ -62,5 +64,4 @@ public void DeleteData()
 
 ### 참고
 
-공식문서:
-https://docs.unity3d.com/ScriptReference/PlayerPrefs.html
+공식문서: [[PlayerPrefs]](https://docs.unity3d.com/ScriptReference/PlayerPrefs.html)
